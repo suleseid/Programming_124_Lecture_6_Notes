@@ -23,6 +23,7 @@ namespace Programming_124_Lecture_6_Notes
         public MainWindow()
         {
             InitializeComponent();
+            //Hi Class
         }
     }
 }
